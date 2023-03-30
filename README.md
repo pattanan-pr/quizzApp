@@ -6,4 +6,4 @@ quizzApp is a quiz application on ios application that allows users to take quiz
 
 
 <img width="248" alt="Screenshot 2566-03-30 at 14 13 11" src="https://user-images.githubusercontent.com/78087419/228760648-233f4001-cbdd-4708-b3fe-05b53c2387d8.png">
-<img width="309" alt="Screenshot 2566-03-30 at 14 31 25" src="https://user-images.githubusercontent.com/78087419/228764879-6b9e5a39-87be-4090-9e8d-9208c2ea1618.png">
+<img width="239" alt="Screenshot 2566-03-30 at 14 42 08" src="https://user-images.githubusercontent.com/78087419/228765295-cd8e9a11-43fb-4ff5-9a6c-e9c701ca5522.png">
